@@ -1,5 +1,5 @@
 package Repo2_March23._2;
 
-public class Class1 {
+public class Branch2 {
 
 }
